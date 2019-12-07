@@ -1,7 +1,7 @@
 ### React Hooks
 
 ---
-[Badge](https://img.shields.io/badge/OSS-React%20Hooks-green)
+![https://img.shields.io/badge/React-Hooks-orange](https://img.shields.io/badge/React-Hooks-orange)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
